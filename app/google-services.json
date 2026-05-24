@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732211806324",
+    "project_id": "animex-pro-973c7",
+    "storage_bucket": "animex-pro-973c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732211806324:android:cfe584688c0d21be2f9121",
+        "android_client_info": {
+          "package_name": "com.animex.pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIpqSGtEb6ZkFgWVnRPOkcCwK_MU0Lhiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

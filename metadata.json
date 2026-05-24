@@ -1,0 +1,6 @@
+{
+  "name": "AnimEx Pro",
+  "description": "A high-performance premium anime streaming application featuring a sleek dark-themed UI, ExoPlayer controls, and interactive community systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
